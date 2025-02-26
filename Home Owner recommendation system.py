@@ -3,7 +3,7 @@ from datetime import datetime, timedelta
 import random
 
 # Weather API parameters
-API_KEY = "fb8fde2fa1c888193cc4ce0e6722e699"
+API_KEY = "_"
 LOCATION = input("Enter your location (e.g., Tripoli, LB): ").strip()
 PANEL_EFFICIENCY = 0.8  # 80%
 AC_VOLTAGE = 220  # Volts
