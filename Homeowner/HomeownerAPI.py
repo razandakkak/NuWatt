@@ -7,7 +7,7 @@ import random
 app = FastAPI()
 
 # Weather API parameters
-API_KEY = "fb8fde2fa1c888193cc4ce0e6722e699"
+API_KEY = "_"
 PANEL_EFFICIENCY = 0.8  # 80%
 AC_VOLTAGE = 220  # Volts
 NIGHT_HOURS = 7  # Hours considered night time
